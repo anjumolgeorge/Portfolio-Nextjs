@@ -1,7 +1,9 @@
-import Image from "next/image";
+'use client '
 import Hero from "./components/Hero";
 
 import Grid from "./components/Grid";
+import About from "./about/about";
+import Nav from "./Navbar/Nav";
 
 export default function Home() {
   return (
@@ -11,7 +13,7 @@ export default function Home() {
        
         <Hero/>
         <Grid/>
-
+        <Nav/>
       </div>
     </main>
   );
