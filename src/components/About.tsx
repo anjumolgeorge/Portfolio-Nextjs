@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div id='about' className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 text-white py-16 px-6 md:px-20 flex flex-col items-center text-center space-y-8 ">
       
-      {/* Section Title */}
+      {/*Title */}
       <div className="space-y-2">
         <p className="text-lg md:text-2xl font-semibold text-gray-300 animate-fadeIn">
           About Me
