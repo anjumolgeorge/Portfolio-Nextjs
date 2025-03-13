@@ -12,6 +12,8 @@ const page = () => {
     <div className="flex flex-col md:flex-row gap-4 p-4">
       <div className="bg-blue-500 text-white p-4 ">Box 1</div>
       <div className="bg-green-500 text-white p-4">Box 2</div>
+
+      <h1 className=' leading-relaxed tracking-wide'>This is a styled psrsgraph!</h1>
     </div>
     </div>
 
