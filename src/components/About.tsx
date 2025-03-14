@@ -6,7 +6,7 @@ const About = () => {
       
       {/*Title */}
       <div className="space-y-2">
-        <p className="text-lg md:text-2xl font-semibold text-gray-300 animate-fadeIn">
+        <p className="text-lg md:text-3xl font-extrabold text-gray-300 animate-fadeIn">
           About Me
         </p>
         <p className="text-3xl md:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
