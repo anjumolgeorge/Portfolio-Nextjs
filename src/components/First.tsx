@@ -5,7 +5,7 @@ import { FaLinkedin, FaInstagramSquare } from "react-icons/fa";
 
 const First = () => {
   return (
-    <div className="relative bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 text-white min-h-screen flex flex-col md:flex-row items-center justify-between px-10 md:px-20 py-16 overflow-hidden">
+    <div className="relative bg-gradient-to-r from-gray-900 via-gray-700 to-gray-900 text-white min-h-screen flex flex-col md:flex-row items-center justify-between px-10 md:px-20 py-16 overflow-hidden">
       
       {/* Button */}
       <div className="absolute right-10 top-1/2 transform -translate-y-1/2">
