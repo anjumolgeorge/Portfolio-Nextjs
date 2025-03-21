@@ -15,6 +15,15 @@ const page = () => {
 
       <h1 className=' leading-relaxed tracking-wide'>This is a styled psrsgraph!</h1>
     </div>
+
+
+    <div className="max-w-2xl mx-auto p-6">
+    <h1 className="text-4xl font-bold text-blue-600 text-center">Typography in Tailwind</h1>
+    <p className="text-lg text-gray-700 leading-relaxed mt-4">
+        Tailwind CSS provides utility classes for typography, making it easy to style text with minimal effort.
+    </p>
+</div>
+
     </div>
 
 
